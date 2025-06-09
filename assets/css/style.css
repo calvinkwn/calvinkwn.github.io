@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: #07336A;
 }
 
 /* main blockqoute */
@@ -155,8 +155,8 @@ a {
 } */
 
 blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
+  border-left: 5px solid #0860cc;
+  color: #0860cc;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #fce1e1 repeat;
+  background: #EFF7F8 repeat;
   position: relative;
 }
 
